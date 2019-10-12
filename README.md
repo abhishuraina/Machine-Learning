@@ -4,6 +4,4 @@
 3. Logistic regression
 4. K-NN
 5. Natural language processing
-
-
-
+6. Neural Networks
